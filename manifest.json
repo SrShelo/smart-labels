@@ -3,7 +3,7 @@
 	"name": "Smart Labels",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Define custom expressions to be replaced with automatically generated text with your own rules.",
+	"description": "Define custom expressions to be replaced with dynamic text with your own rules.",
 	"author": "Sr.Shelo",
 	"authorUrl": "https://github.com/SrShelo",
 	"isDesktopOnly": false
